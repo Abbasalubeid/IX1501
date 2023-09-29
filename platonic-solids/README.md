@@ -48,7 +48,7 @@ A simulation with 1000 trials gave a winning probability of about `0.0150`. This
 More trials generally mean more precise simulated probabilities, closer to actual values.
 ![Task 4 Probability with varying trials](task4.png)
 
-Expect small variations in the graph with each run of the simulation., due to the randomness in the Monte Carlo method. Different runs may result in slight differences, but usually, \(10^6\) trials give results that are nearly the same as the exact probabilities.
+Expect small variations in the graph with each run of the simulation, that is due to the randomness in the Monte Carlo method. Usually, \(10^6\) trials give results that are nearly the same as the exact probabilities.
 
 ### Task 5: Required Trials for Accurate Simulation
 Approximately 5000 trials are typically required to achieve a relative error below 10% between the simulated and exact probability. However, this is also not consistently the case due to the inherent randomness in simulations.
