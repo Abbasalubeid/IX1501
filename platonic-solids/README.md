@@ -38,7 +38,7 @@ The bell-shaped curve is clearly visualised in the bar chart below, representing
 
 
 ### Task 2: Winning Probability
-The exact winning probability for these conditions is approximately 0.010677 or 1.0677%. It is low due to the winning sums which are less probable as they are in the extremes of the distribution. This is mainly because there are fewer combinations of dice rolls that can result in these extreme sums. For instance, achieving a sum of 5 is only possible if each of the five dice shows a 1 on its top-facing side, which is only one possible combination out of the many available when rolling five dice. In contrast, a sum like 25 has many possible combinations, e.g., [6, 6, 6, 4, 3], [5, 6, 6, 4, 4], and so on, making it more likely to occur.
+The exact winning probability for these conditions is approximately `0.010677` or around `1.06%`. It is low due to the winning sums which are less probable as they are in the extremes of the distribution. This is mainly because there are fewer combinations of dice rolls that can result in these extreme sums. For instance, achieving a sum of 5 is only possible if each of the five dice shows a 1 on its top-facing side, which is only one possible combination out of the many available when rolling five dice. In contrast, a sum like 25 has many possible combinations, e.g., [6, 6, 6, 4, 3], [5, 6, 6, 4, 4], and so on, making it more likely to occur.
 
 
 ### Task 3: Monte Carlo Simulation
