@@ -4,7 +4,7 @@
 Bootstrapping is a statistical technique that addresses constraints in sample size. By resampling with replacement from an original dataset, it generates numerous simulated 'bootstrap' samples, providing a broader understanding of the potential variations in the data.
 
 ## Estimating `p`
-The dataset represents 10 independent and identically distributed (i.i.d) random variables from an unknown distribution with an unknown mean `μ`. 
+The dataset represents 10 independent and identically distributed (i.i.d) random variables from an unknown distribution with an unknown mean $\mu$. 
 
 The objective is to estimate `p`:
 
