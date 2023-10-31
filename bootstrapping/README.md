@@ -18,7 +18,7 @@ Where:
 
 The arithmetic mean of the 10 observations was used as an estimator for the expected value $\mu$. By bootstrapping 10,000 samples from this dataset and calculating each sample's mean, a distribution of the differences between these sample means and $\mu$ is obtained.
 
-This interval `[a + $\mu$, b + $\mu$]` is treated as a confidence interval around the estimated mean and the derived value of `p` indicates the proportion of bootstrap sample means that fall within this confidence interval.
+This interval [a + $\mu$, b + $\mu$] is treated as a confidence interval around the estimated mean and the derived value of `p` indicates the proportion of bootstrap sample means that fall within this confidence interval.
 
 ## Visualization
 A histogram presents the distribution of bootstrapped sample means. The original sample mean is marked with a red vertical line, while the bounds of the confidence interval are indicated by two green dashed lines.
