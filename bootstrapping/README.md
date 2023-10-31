@@ -5,11 +5,10 @@ Bootstrapping is a statistical technique that addresses constraints in sample si
 
 ## Estimating `p`
 The dataset represents 10 independent and identically distributed (i.i.d) random variables from an unknown distribution with an unknown mean `μ`. 
-<!-- "https://latex.codecogs.com/gif.latex?p = P (a < \frac{\sum_{i=1}^{n} X_i}{n} - \mu < b)" -->
 
 The objective is to estimate:
 
-![Distribution of Bootstrapped Sample Means](https://latex.codecogs.com/gif.latex?p=P(a<\frac{\sum_{i=1}^{n}X_i}{n}-\mu<b))
+![Distribution of Bootstrapped Sample Means](https://latex.codecogs.com/gif.latex?\color{white}p=P(a<\frac{\sum_{i=1}^{n}X_i}{n}-\mu<b)&bg=transparent)
 
 Where:
 - `n` is the number of observations (10 in this dataset).
