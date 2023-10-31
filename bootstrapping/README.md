@@ -9,6 +9,8 @@ The dataset represents 10 independent and identically distributed (i.i.d) random
 The objective is to estimate `p`:
 
 Where:
+
+
 ![Distribution of Bootstrapped Sample Means](eq.png)
 
 - `n` is the number of observations (10 in this dataset).
