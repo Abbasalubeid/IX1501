@@ -9,7 +9,7 @@ The dataset represents 10 independent and identically distributed (i.i.d) random
 
 The objective is to estimate:
 
-![Distribution of Bootstrapped Sample Means](https://latex.codecogs.com/gif.latex?p=P(a < \frac{\sum_{i=1}^{n} X_i}{n} - \mu < b))
+![Distribution of Bootstrapped Sample Means](https://latex.codecogs.com/gif.latex?p=P(a<\frac{\sum_{i=1}^{n}X_i}{n}-\mu<b))
 
 Where:
 - `n` is the number of observations (10 in this dataset).
