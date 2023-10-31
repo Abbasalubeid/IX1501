@@ -6,10 +6,11 @@ Bootstrapping is a statistical technique that addresses constraints in sample si
 ## Estimating `p`
 The dataset represents 10 independent and identically distributed (i.i.d) random variables from an unknown distribution with an unknown mean `μ`. 
 
-The objective is to estimate:
+The objective is to estimate `p`:
 
-![Distribution of Bootstrapped Sample Means](eq.svg)
 Where:
+![Distribution of Bootstrapped Sample Means](eq.png)
+
 - `n` is the number of observations (10 in this dataset).
 - `a` and `b` are constraints set to -5 and 5, respectively.
 
